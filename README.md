@@ -1,3 +1,3 @@
-# retail-sales\
+# retail-sales
 author - <br> 
 nihar dutta
